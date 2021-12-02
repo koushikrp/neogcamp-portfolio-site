@@ -9,7 +9,9 @@ body {
 	font-family: "Open Sans", sans-serif;
 	margin: 0px;
 }
-
+.blogread {
+	font-size: 1.2rem;
+}
 hr {
 	margin: 2rem 0rem;
 }
