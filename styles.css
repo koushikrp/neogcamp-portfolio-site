@@ -22,9 +22,11 @@ hr {
 	margin-bottom: 2rem;
 	margin-right: 10rem;
 	margin-left: 8rem;
-	border: 1px solid #b45309;
+	border: 0.0625rem solid #b45309;
 	border-radius: 1rem;
 	padding-bottom: 2rem;
+	/* overflow: hidden; */
+	word-wrap: break-word;
 }
 /** container **/
 .container {
